@@ -1,6 +1,5 @@
 import Samosa from "./samosa.jsx";
 
-
 function App() {
   
   return (
